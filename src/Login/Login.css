@@ -1,0 +1,33 @@
+.photoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #cbe4e8;
+}
+.photoContainer img {
+  width: 150%;
+}
+.container1 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.title {
+  text-align: left;
+  font-weight: bold;
+}
+.forget {
+  text-align: right;
+}
+.detail {
+  text-align: left;
+}
+.colo {
+  color: #db4444;
+}
+.bgColor {
+  background-color: #db4444;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}

@@ -1,0 +1,27 @@
+.photoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #cbe4e8;
+}
+.photoContainer img {
+  width: 150%;
+}
+.container1 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+h1 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+.cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.link {
+  text-align: center;
+}
